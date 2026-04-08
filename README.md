@@ -14,6 +14,10 @@
 </p>
 
 <p align="center">
+  <img src="./docs/images/miroshark-overview.jpg" alt="MiroShark Overview" />
+</p>
+
+<p align="center">
   <img src="./docs/images/diagram1.jpg" alt="Diagram 1" />
 </p>
 
